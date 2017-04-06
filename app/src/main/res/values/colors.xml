@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="white_deep">#FFFFFFFF</color>
+    <color name="purple">#848484</color>
+    <color name="last_msg_tv_color">#ffaaaaaa</color>
+    <color name="white">#ffffffff</color>
+    <color name="pure_blue">#ff75b3fc</color>
+    <color name="common_bg">#EBEBEB</color>
+    <color name="gray_pressed">#666667</color>
+    <color name="news_time_color">#9a9a9a</color>
+    <color name="base_bg_color_blue">#417ed3</color>
+    <color name="red_fe6c6b">#FE6C6B</color>
+
+</resources>
